@@ -1,5 +1,5 @@
 {
-  "name": "ejercicio-practico_el-paquete-pg",
+  "name": "evaluacion final modulo 7",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mariela Ochoa Hutinel",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
